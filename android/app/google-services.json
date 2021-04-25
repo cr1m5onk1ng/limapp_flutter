@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "898295318976",
+    "project_id": "hallowed-scene-300008",
+    "storage_bucket": "hallowed-scene-300008.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898295318976:android:89b2c6eb913c00853ae025",
+        "android_client_info": {
+          "package_name": "com.nala.language_immersion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898295318976-besg3veac92f6gdm4j5dlc6laumhtjdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nala.language_immersion",
+            "certificate_hash": "740a511f67d39fec7daec22577f8cbdef65db96f"
+          }
+        },
+        {
+          "client_id": "898295318976-s1cs58ol916m9f3g3a0v07cs3qg4ooos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC88-AGOasz1bA8RnM-lCWymX3VgJMrTnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898295318976-s1cs58ol916m9f3g3a0v07cs3qg4ooos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
