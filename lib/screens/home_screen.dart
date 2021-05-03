@@ -124,7 +124,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   ),
                   SizedBox(height: 5),
                   Text(
-                    "NaLa",
+                    "Limapp",
                     style: TextStyle(
                       fontSize: 22,
                       fontWeight: FontWeight.w800,

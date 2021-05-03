@@ -13,8 +13,6 @@ The app makes also use of the incredibly useful [Jisho](https://jisho.org/) api 
 <br>
 
 
-
-
 ## ✨ Features
 
 - [x] Look up words in the dictionary
@@ -28,3 +26,15 @@ The app makes also use of the incredibly useful [Jisho](https://jisho.org/) api 
 
 ## 📸 Screenshots
 
+Home
+ ---------------------------------
+<img src="screenshots/home.png" width="400">
+
+| Videos                             | Articles                              |
+| --------------------------------- | --------------------------------- |
+| <img src="screenshots/video2.png" width="400">  | <img src="screenshots/article1.png" width="400">  |
+| <img src="screenshots/video3.png" width="400">  | <img src="screenshots/article2.png" width="400">  |
+| <img src="screenshots/video4.png" width="400">  | <img src="screenshots/article3.png" width="400">  |
+| <img src="screenshots/video5.png" width="400">  | <img src="screenshots/article4.png" width="400">  |
+| <img src="screenshots/video6.png" width="400">  | <img src="screenshots/article5.png" width="400"> |
+| <img src="screenshots/video7.png" width="400">  | <img src="screenshots/article5.png" width="400"> |
