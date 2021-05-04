@@ -207,7 +207,7 @@ class _HomeScreenState extends State<HomeScreen> {
             children: [
               20.heightBox,
               AppBar(
-                title: 'NaLa'.text.xl4.semiBold.yellow200.make(),
+                title: 'Limapp'.text.xl4.semiBold.yellow200.make(),
                 centerTitle: true,
                 backgroundColor: Colors.transparent,
                 elevation: 0,
@@ -260,7 +260,7 @@ class _HomeScreenState extends State<HomeScreen> {
             .size(context.screenWidth, context.screenHeight)
             .withGradient(
               LinearGradient(
-                colors: [Colors.red.shade600, Colors.blue.shade900],
+                colors: [Colors.blue.shade400, Colors.blue.shade900],
                 begin: Alignment.topLeft,
                 end: Alignment.bottomRight,
               ),
